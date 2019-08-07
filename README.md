@@ -12,5 +12,12 @@
 <div class="t m0 x4 h6 y546 ff1 fs1 fc3 sc0 ls1 ws2">fun&ccedil;&atilde;o tone para gerar as frequ&ecirc;ncias no pino 6 do Arduino. Com este projeto voc&ecirc; pode</div>
 <div class="t m0 x4 h6 y547 ff1 fs1 fc3 sc0 ls1 ws2">controlar leds, motores, sonorizador piezo ou at&eacute; mesmo inserir este sinal em filtros. O</div>
 <div class="t m0 x4 h6 y548 ff1 fs1 fc3 sc0 ls1 ws2">c&oacute;digo &eacute; bem simples e de f&aacute;cil compreens&atilde;o. Os c&oacute;digos ser&atilde;o todos comentados para</div>
-<div class="t m0 x4 h6 y549 ff1 fs1 fc3 sc0 ls1 ws2">melhor entendimento, podendo ser retirados ap&oacute;s a compreens&atilde;o de cada linha. Bom</div>
-<div class="t m0 x4 h6 y108 ff1 fs1 fc3 sc0 ls1 ws2">trabalho !!!</div>
+<div class="t m0 x4 h6 y549 ff1 fs1 fc3 sc0 ls1 ws2">melhor entendimento, podendo ser retirados ap&oacute;s a compreens&atilde;o de cada linha.</div>
+<div class="t m0 x4 h6 y549 ff1 fs1 fc3 sc0 ls1 ws2">
+<div class="t m0 x4 h6 y54d ff5 fs1 fc0 sc0 ls1 ws2">&nbsp;</div>
+<div class="t m0 x4 h6 y54d ff5 fs1 fc0 sc0 ls1 ws2">COMPONENTES NECESS&Aacute;RIOS</div>
+<div class="t m0 x4 h6 y54e ff1 fs1 fc3 sc0 ls1 ws2">1 Arduino Uno R3</div>
+<div class="t m0 x4 h6 y54f ff1 fs1 fc3 sc0 ls1 ws2">1 Sonozidor piezo</div>
+<div class="t m0 x4 h6 y7 ff1 fs1 fc3 sc0 ls1 ws2">Fios jumpers</div>
+<div class="t m0 x4 h6 y1a4 ff1 fs1 fc3 sc0 ls1 ws2">&nbsp;</div>
+</div>
